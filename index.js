@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const sourceMap = require("source-map");
 const fs = require('fs');
 const path = require('path');

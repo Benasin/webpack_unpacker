@@ -5,6 +5,7 @@ const argparse = require('argparse');
 
 const parser = new argparse.ArgumentParser({
     description: 'Webpack Source Map Unpacker',
+    usage: 'wup [-h] [-d DIR] [sourceMapFilePath]',
     epilog: 'usage for multiple map files: find . -name "*.map" | wup [-d DIR]'
 });
 

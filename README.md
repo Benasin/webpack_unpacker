@@ -9,7 +9,7 @@ npm install webpack-unpacker
 ## Usage
 
 ```
-usage: index.js [-h] [-d DIR] [sourceMapFilePath]
+usage: wup [-h] [-d DIR] [sourceMapFilePath]
 
 Webpack Source Map Unpacker
 
@@ -22,3 +22,6 @@ optional arguments:
 
 usage for multiple map files: find . -name "*.map" | wup [-d DIR]
 ```
+
+## Referenced
+https://spaceraccoon.github.io/webpack-exploder/

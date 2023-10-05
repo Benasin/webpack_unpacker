@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install webpack-unpacker
+npm install -g webpack-unpacker
 ```
 
 ## Usage

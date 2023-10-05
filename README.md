@@ -23,5 +23,5 @@ optional arguments:
 usage for multiple map files: find . -name "*.map" | wup [-d DIR]
 ```
 
-## Referenced
+## Reference
 https://spaceraccoon.github.io/webpack-exploder/
